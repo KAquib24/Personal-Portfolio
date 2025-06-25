@@ -4,7 +4,7 @@
 
 Welcome to my **Personal Portfolio Website**, a modern, fully responsive site built to showcase my skills, projects, and experience as a Frontend Developer.
 
-![Portfolio Banner](public/assets/) <!-- Replace with actual path -->
+![Portfolio Banner](public/assets/homepage.png) <!-- Replace with actual path -->
 
 ---
 
@@ -29,26 +29,9 @@ Welcome to my **Personal Portfolio Website**, a modern, fully responsive site bu
 | **Tailwind CSS** | Fast and responsive styling    |
 | **React Router** | Page navigation                |
 | **Framer Motion** | Animations                    |
-| **EmailJS**    | Sending contact form messages    |
+| **Shadcn**    | Styling Library    |
 | **Vite/CRA**   | Fast bundling and dev server     |
 
----
-
-## 📂 Project Structure
-
-```bash
-portfolio/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.tsx
-│   └── main.tsx
-├── .env
-├── package.json
-└── tailwind.config.js
-````
 
 ---
 
@@ -56,14 +39,14 @@ portfolio/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/KAquib24/Personal-Portfolio.git
 cd your-portfolio
 
 # Install dependencies
 npm install
 
 # Run development server
-npm run dev
+npm start 
 
 ---
 
@@ -71,7 +54,6 @@ npm run dev
 
 Feel free to connect with me on:
 
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [Twitter](https://twitter.com/yourhandle)
-* [Email](mailto:your.email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/khan-aquib/)
+* [Email](mailto:aquibkhan8108@gmail.com)
 
