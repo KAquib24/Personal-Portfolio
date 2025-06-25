@@ -4,7 +4,7 @@
 
 Welcome to my **Personal Portfolio Website**, a modern, fully responsive site built to showcase my skills, projects, and experience as a Frontend Developer.
 
-![Portfolio Banner](public/assets/homepage.png) <!-- Replace with actual path -->
+![Portfolio Banner](/public/assets/homepage.png) 
 
 ---
 
