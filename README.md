@@ -1,37 +1,34 @@
-
-````markdown
-# 🌐 Personal Portfolio - Aquib Khan
+# 🌐 Personal Portfolio – Aquib Khan
 
 Welcome to my **Personal Portfolio Website**, a modern, fully responsive site built to showcase my skills, projects, and experience as a Frontend Developer.
 
-![Portfolio Banner](/public/assets/homepage.png) 
+![Portfolio Banner](./public/assets/homepage.png)
 
 ---
 
 ## 🚀 Features
 
-- 🧑‍💻 **About Me** section with career goals and tech stack
-- 🛠️ **Projects Showcase** with live previews and GitHub links
-- 📄 **Resume Download** option
-- ✉️ **Contact Form** (via EmailJS or custom backend)
-- 🌙 **Dark Mode** toggle
-- 📱 **Responsive Design** for all devices
-- ⚡ **Smooth Animations** using Framer Motion / GSAP
+- 🧑‍💻 **About Me** section with career goals and tech stack  
+- 🛠️ **Projects Showcase** with live previews and GitHub links  
+- 📄 **Resume Download** option  
+- ✉️ **Contact Form** (via EmailJS or custom backend)  
+- 🌙 **Dark Mode** toggle  
+- 📱 **Responsive Design** for all devices  
+- ⚡ **Smooth Animations** using Framer Motion / GSAP  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech           | Purpose                          |
-|----------------|----------------------------------|
-| **React**      | UI library                       |
-| **TypeScript** | Type-safe component development  |
-| **Tailwind CSS** | Fast and responsive styling    |
-| **React Router** | Page navigation                |
-| **Framer Motion** | Animations                    |
-| **Shadcn**    | Styling Library    |
-| **Vite/CRA**   | Fast bundling and dev server     |
-
+| Tech             | Purpose                          |
+|------------------|----------------------------------|
+| **React**        | UI library                       |
+| **TypeScript**   | Type-safe component development  |
+| **Tailwind CSS** | Fast and responsive styling      |
+| **React Router** | Page navigation                  |
+| **Framer Motion**| Animations                       |
+| **Shadcn**       | Styling Library                  |
+| **Vite/CRA**     | Fast bundling and dev server     |
 
 ---
 
@@ -46,7 +43,8 @@ cd your-portfolio
 npm install
 
 # Run development server
-npm start 
+npm start
+```
 
 ---
 
@@ -54,6 +52,5 @@ npm start
 
 Feel free to connect with me on:
 
-* [LinkedIn](https://www.linkedin.com/in/khan-aquib/)
-* [Email](mailto:aquibkhan8108@gmail.com)
-
+- [LinkedIn](https://www.linkedin.com/in/khan-aquib/)
+- [Email](mailto:aquibkhan8108@gmail.com)
