@@ -28,7 +28,7 @@ Welcome to my **Personal Portfolio Website**, a modern, fully responsive site bu
 | **React Router** | Page navigation                  |
 | **Framer Motion**| Animations                       |
 | **Shadcn**       | Styling Library                  |
-| **Vite/CRA**     | Fast bundling and dev server     |
+| **Vite**     | Fast bundling and dev server     |
 
 ---
 
@@ -43,7 +43,7 @@ cd your-portfolio
 npm install
 
 # Run development server
-npm start
+npm run dev
 ```
 
 ---
